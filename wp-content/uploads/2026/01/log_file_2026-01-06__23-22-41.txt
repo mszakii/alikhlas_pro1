@@ -1,0 +1,68 @@
+
+---Downloaded files---
+The import files for: Instructor were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://alikhlas.local
+Data file = C:\Users\smy\Local Sites\alikhlas\app\public\wp-content\plugins\tutormate/demos/elementor/instructor/demo-content.xml
+Widget file = C:\Users\smy\Local Sites\alikhlas\app\public\wp-content\plugins\tutormate/demos/elementor/instructor/widgets.wie
+Customizer file = C:\Users\smy\Local Sites\alikhlas\app\public\wp-content\plugins\tutormate/demos/elementor/instructor/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "course_thumb_13" (Media)
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+
+Page Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Footer Widget 1 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+
+Footer Widget 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Widget 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer Widget 4 : 
+
+Navigation Menu - Support - Imported
+
+Footer Social Media : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
